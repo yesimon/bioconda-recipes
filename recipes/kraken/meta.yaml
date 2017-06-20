@@ -1,10 +1,10 @@
 package:
   name: kraken
-  version: "0.10.6_eaf8fb68"
+  version: "0.10.6_fork"
 source:
-  fn: kraken-eaf8fb68.tar.gz
-  url: https://github.com/DerrickWood/kraken/archive/eaf8fb68.tar.gz
-  sha256: 0425fb88ce1d66ca5187cf348970d1dd2cec61d69bd53c466ca43f957de71ffd
+  fn: kraken-0.10.6-fork.tar.gz
+  url: https://github.com/yesimon/kraken/archive/fork.tar.gz
+  md5: 0fd486d89b2dbf525112ef7288af33b8
 
 build:
   number: 4
