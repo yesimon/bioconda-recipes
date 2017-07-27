@@ -1,13 +1,13 @@
 package:
   name: kraken
-  version: "0.10.6_fork"
+  version: "0.10.6_fork2"
 source:
-  fn: kraken-0.10.6-fork.tar.gz
-  url: https://github.com/yesimon/kraken/archive/fork.tar.gz
-  md5: 0fd486d89b2dbf525112ef7288af33b8
+  fn: kraken-0.10.6-yesimon.tar.gz
+  url: https://github.com/yesimon/kraken/archive/yesimon.tar.gz
+  sha256sum: 96fe6a2769bf4848febc9f26cf0ddd5881e8fe8b98070cebbba9ac8e17b90f04
 
 build:
-  number: 4
+  number: 0
   has_prefix_files:
     - libexec/kraken
     - libexec/kraken-build

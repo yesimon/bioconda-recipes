@@ -4,10 +4,10 @@ build:
 
 package:
   name: kraken-all
-  version: "0.10.6_fork"
+  version: "0.10.6_fork2"
 requirements:
   run:
-    - kraken ==0.10.6_fork
+    - kraken ==0.10.6_fork2
     - jellyfish >=1.1.11,<2
 about:
   home: http://ccb.jhu.edu/software/kraken/
