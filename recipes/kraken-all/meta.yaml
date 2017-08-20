@@ -1,13 +1,12 @@
 build:
   number: 0
-  skip: True # [osx]
 
 package:
   name: kraken-all
-  version: "0.10.6_fork2"
+  version: "0.10.6_fork3"
 requirements:
   run:
-    - kraken ==0.10.6_fork2
+    - kraken ==0.10.6_fork3
     - jellyfish >=1.1.11,<2
 about:
   home: http://ccb.jhu.edu/software/kraken/

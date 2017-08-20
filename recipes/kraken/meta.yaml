@@ -1,10 +1,10 @@
 package:
   name: kraken
-  version: "0.10.6_fork2"
+  version: "0.10.6_fork3"
 source:
   fn: kraken-0.10.6-yesimon.tar.gz
   url: https://github.com/yesimon/kraken/archive/yesimon.tar.gz
-  sha256sum: 96fe6a2769bf4848febc9f26cf0ddd5881e8fe8b98070cebbba9ac8e17b90f04
+  sha256sum: e2ca55b4e508663efcbfa3d387e4536ee49a5d22e9e852a16fc23525de4b80b0
 
 build:
   number: 0
@@ -19,7 +19,7 @@ build:
 requirements:
   build:
     - perl
-    - gcc 
+    - gcc
 
   run:
     - jellyfish 1.*
